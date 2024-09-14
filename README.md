@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ea127e31-3f13-446e-820c-5ef6dab4eb0a)### EX3 Implementation of GSP Algorithm In Python
+### EX3 Implementation of GSP Algorithm In Python
 ### DATE: 
 ### AIM: To implement GSP Algorithm In Python.
 ### Description:
@@ -144,6 +144,10 @@ visualize_patterns_line(bottom_wear_result, 'Bottom Wear')
 visualize_patterns_line(party_wear_result, 'Party Wear')
 ```
 ### Output:
+![image](https://github.com/user-attachments/assets/e35fbeb1-42e5-4ecb-8dd4-cda65b6ae669)
+![image](https://github.com/user-attachments/assets/b2d6e2f1-f2c7-4876-a690-06ae71299abc)
+
 
 
 ### Result:
+Thus the implementation of the GSP algorithm in python has been successfully executed.
